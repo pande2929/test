@@ -6,7 +6,7 @@
         "name": "noc",
         "sshAuthorizedKeys": [
           "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCgApx1/4W/eh6dD7h+etymqVtk876uB6LMEagNjw599zXR7o3ILZrglhHOAmtSETSPi1q2Qt54CTScBQ0Ro6F18J7E3sKkZHg6SYrzOyONhGHu3e0kjpYWhe7Aucub4vM7GYu/WCPKNdQ40jmoM5zw3tGHFx7akm1LqbLSOkkgAlR9sQ3cUC8XWEJaplkvdyvjK9drKzvohReHVzrJg0hZ8tWkzvdpIR+EDmPiZBw6s/qUxk4+VjGqqhVUOWjVIBt2gZKAxcd/U89LdecdFoyHysaxMNf8eQB/M3eLzBu51Nc6ckFX/m56f7xFv8Pq1vY657nDmwb/3VUbSNNa62ah"
-        ]
+        ],
         "uid": 1000
       }
     ]
